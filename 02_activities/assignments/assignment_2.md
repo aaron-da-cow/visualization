@@ -10,25 +10,39 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      
+      Good visualization:
+      Zach Bowders "Daylight" 
+      https://public.tableau.com/app/profile/zach.bowders/viz/Daylight_17637321921470/Daylight
+      Zach Bowder, in this visualization demonstrates the hours and minutes of daylight in the world's capitals on November 17, 2025. It matches the data type spatial/geospaial with encoding (colour on the map).
+      Using a color palette, it allows the viewer to understand that Greenland (dark blue) has less daylight compared to Australia (bright yellow). The viewer instantly can grasp the correlation between Latitude and Daylight duration. 
+
+      Using the Gestalt Principle of Similarity, our eyes group the yellow cities and blue cities together. We instantly understand that the Southern Hemisphere is in the summer, and the Northern Hemisphere is in the winter. 
+      The colours and the map, display an aesthetically pleasing visual, while we can understand the message that the author is trying to convey. 
+
+      How could this data visualization have been improved?
+
+      This visualization could have been improved by making the data richer. 
+
+      The most striking ommission is that it only covers the capitals of all the countries, as well as on one day. It would be both aesthetically pleasing and educational to have a slider that accounted for at least the seasons, if not all the days of the year and see how Iceland and Greenland experience the midnight sun before becoming almost pitch black during the winter months. 
+      Adding a secondary chart of the latitude would also enhance the connection between hours of daylight and the latitude of the city. A linked highlighting of these 2 attributes would provide more analytical context. 
+      Finally, this map could have gone further to explain the physics of why daylight is distributed in this manner. It could reference the equator, the polar circles or other attributes to tell a richer story. 
+      
 
 
-
-
-
-
-
+      ```
+      Bad visualization:
+      Louise Shorten "Beautiful Music"
+      https://public.tableau.com/app/profile/louise.shorten/viz/BeautifulMusic/1_Mozart-SymphonyNo40
+      In a standard music score, as well as other symbolic notational methods, music is represented as time, pitch and intensity; you can see where the melody goes, places where the music is dense and complex, or pure and simple, and the climaxes. In Shorten's visualization, the dots are likely serving only an aesthetic purpose; there is not much to glean from the visualization other than that the piece displayed is colourful and "beautiful" as the title suggests. 
+      An effective visualization would give a reference of what is normal, and what is remarkably different from the average. In this visualization, there is no real way to tell if the flutes are playing more, louder or higher than say the cello. 
+      In Alberto Cairo's "The Truthful Art", "A data visualization should only be beautiful when beauty can promote understanding in some way without undermining it in another. Is beauty sometimes useful? Certainly. Is beauty always useful? Certainly not." This quote sums up the graph: visually appealing, but not useful in helping the viewer understand Mozart's composition in a meaningful way.
+      In my opinion, this visualization exists for the sake of looking "beautiful" as the title suggests but does not give any substantive meaning to the topic it attempts to visualize. It doesn't take advantage of cognitive psychology, and the graph doesn't take into consideration the gestalt principles, rather creating groupings and proximity for the sake of aesthetic beauty rather than helping the viewer cognitively visualize the information.
+      Regarding the three important qualities of data visualization (from class), the visualization is Aesthetically pleasing, but does not accurately present data (unsubstantive) and we cannot understand the message that the maker of the visualization is attempting to convey.
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
-      
+      The data visualization could be improved by having a purpose beyond aesthetic beauty. If it sought to demonstrate orchestration, such as how often the flute plays, what is the range, what are the dynamics, or compositional structure, the visualization would have served some sort of purpose, and give meaning to it.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
